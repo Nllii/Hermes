@@ -1,0 +1,7 @@
+[mongodb_config]
+database = "mongodb"
+srv_url = "mongodb://localhost:"
+
+
+[firebase_config]
+
