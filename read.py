@@ -2,11 +2,6 @@ from news_sources.bing import bing_search
 from news_sources.bloomberg import bloomberg_current_news
 
 
-
-
-
-
-
 class read_articles:
     def __init__(self, search_term,url = None):
         self.search_term = search_term
